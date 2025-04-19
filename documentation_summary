@@ -1,0 +1,13 @@
+Endpoint	Pathway Type	Target Function	Toxic Implication
+NR-AR	NR	Androgen Receptor	Endocrine disruption (male)
+NR-AR-LBD	NR	AR Ligand Binding Domain	Specific AR binding
+NR-AhR	NR	Aryl Hydrocarbon Receptor	Dioxin-like toxicity
+NR-Aromatase	NR	Estrogen synthesis	Hormonal imbalance
+NR-ER	NR	Estrogen Receptor	Endocrine disruption (female)
+NR-ER-LBD	NR	ER Ligand Binding Domain	Specific ER binding
+NR-PPAR-γ	NR	Fat/glucose regulation	Obesity, insulin resistance
+SR-ARE	SR	Oxidative stress response	ROS generation
+SR-ATAD5	SR	DNA repair	Genotoxicity
+SR-HSE	SR	Protein damage stress	Heavy metal/protein misfolding
+SR-MMP	SR	Mitochondrial disruption	Apoptosis/energy dysfunction
+SR-p53	SR	Genomic integrity, tumor suppression	DNA damage, potential carcinogenicity
